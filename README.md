@@ -38,3 +38,13 @@
 **[ProjectAlpha](https://github.com/LoicStr/ProjectAlpha)** — Nuxt · Tailwind &nbsp;·&nbsp; Dashboard analytique temps réel pour équipes product
 
 **[ui-components](https://github.com/LoicStr/ui-components)** — Vue · Storybook &nbsp;·&nbsp; Bibliothèque de composants accessibles, documentée sous Storybook
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/loic-souetre)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://loic.dev)
+
+</div>
