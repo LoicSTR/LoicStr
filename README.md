@@ -12,7 +12,7 @@
 
 <div align="center">
 
-*Développeur fullstack avec un œil design et une plume.*  
-*Je construis des interfaces que les utilisateurs comprennent — et que les équipes maintiennent.*
+<em>Développeur fullstack avec un œil design et une plume.</em><br>
+<em>Je construis des interfaces que les utilisateurs comprennent — et que les équipes maintiennent.</em>
 
 </div>
