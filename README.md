@@ -48,3 +48,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://loic.dev)
 
 </div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoicStr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true)
+
+</div>
