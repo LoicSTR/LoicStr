@@ -30,3 +30,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </div>
+
+---
+
+<div align="center"><sub>PROJETS NOTABLES</sub></div>
+
+**[ProjectAlpha](https://github.com/LoicStr/ProjectAlpha)** — Nuxt · Tailwind &nbsp;·&nbsp; Dashboard analytique temps réel pour équipes product
+
+**[ui-components](https://github.com/LoicStr/ui-components)** — Vue · Storybook &nbsp;·&nbsp; Bibliothèque de composants accessibles, documentée sous Storybook
