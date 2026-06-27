@@ -57,7 +57,7 @@
 <p>Ouvert aux opportunités, CDI ou missions freelance.</p>
 
 <div flex><a href="https://linkedin.com/in/loic-souetre"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lien vers mon LinkedIn"></a>
-<a href="https://loic.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logoColor=white" alt="Lien vers mon portfolio"></a>
+<a href="https://loic.agence-binom.fr"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logoColor=white" alt="Lien vers mon portfolio"></a>
 </div>
 
 </div>
