@@ -61,9 +61,4 @@
 </div>
 
 </div>
-<br><br>
-<img src="./assets/stats.svg" width="100%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LoicSTR&bg_color=e8e1ff&color=2d1b6b&line=ff6b4a&point=2d1b6b&area=true&hide_border=true&hide_title=true" width="100%" />
-
 
